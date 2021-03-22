@@ -2,6 +2,8 @@ String Booster Pack
 
 -A small collection of semi-useful functions for strings
 
+-Available for download at: https://pypi.org/project/string-booster-pack/
+
 
 -Content List:
 
